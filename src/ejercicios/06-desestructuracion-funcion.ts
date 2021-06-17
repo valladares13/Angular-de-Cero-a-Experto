@@ -35,6 +35,7 @@ export function calculaISV( productos: Producto[] ): [number, number]{
     return [total,total * 0.15];
 }
 
+
 const articulos = [telefono, tableta ];
 
 /*const isv = calculaISV( articulos )

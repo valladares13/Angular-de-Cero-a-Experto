@@ -37,5 +37,6 @@ class Heroe extends PersonaNormal{ //CON EL EXTENDS, EXTENDEMOS LA CLASE
     }
 }
 
+
 const ironman = new Heroe('Ironman', 45, 'Tony');
 console.log(ironman);

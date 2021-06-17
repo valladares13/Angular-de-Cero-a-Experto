@@ -12,4 +12,5 @@ let estaVivo: boolean = true;//Declarar boolean
 
 hp = 'FULL';
 
+
 console.log( nombre, hp );

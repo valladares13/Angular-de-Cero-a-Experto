@@ -16,6 +16,7 @@ puebloNatal?: string, //El interrogante es para hacerlo opcional.
 
 }
 
+
 const personaje: Personaje= {
     nombre: 'Strider',
     hp: 100,

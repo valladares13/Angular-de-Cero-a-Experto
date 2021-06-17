@@ -30,6 +30,7 @@ interface PersonajeLOR{
 
 }
 
+
 function curar( personaje: PersonajeLOR, curarCantidad: number): void{
 
     //personaje.hp = personaje.hp + curarCantidad; es lo mismo que el de abajo obv
